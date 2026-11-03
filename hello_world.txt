@@ -1,1 +1,2 @@
 This is AWESOME!!!
+Testing the VS Code Message Editor Feature
